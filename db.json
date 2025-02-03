@@ -1,0 +1,146 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Quantum Rust Disrupts Solar Drift Networks",
+      "body": "A surge in quantum rust has stalled key solar drift networks, leading to delays in intergalactic communication. The root cause remains unverified, but preliminary data suggests an unstable graviton surge."
+    },
+    {
+      "id": "2",
+      "title": "Echo Bloom Sparks Recursive Feedback Cycle",
+      "body": "Echo bloom incidents have triggered a recursive feedback cycle in the lower strata, impacting signal clarity. Officials advise recalibrating all harmonic receivers until further notice."
+    },
+    {
+      "id": "3",
+      "title": "Null Vector Rift Alters Chrono Flow",
+      "body": "A sudden null vector rift has altered the local chrono flow, causing minor disruptions in synchronous time measurements. Temporal engineers are currently assessing the impact."
+    },
+    {
+      "id": "4",
+      "title": "Subspace Ripple Shifts Elemental Drift",
+      "body": "Unusual subspace ripples were detected early this cycle, slightly shifting elemental drift across the sector. Experts claim the anomaly poses no immediate threat but will be monitored closely."
+    }
+  ],
+  "fruits": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Banana"
+    },
+    {
+      "id": "3",
+      "name": "Cherry"
+    },
+    {
+      "id": "4",
+      "name": "Date"
+    },
+    {
+      "id": "5",
+      "name": "Elderberry"
+    },
+    {
+      "id": "6",
+      "name": "Fig"
+    },
+    {
+      "id": "7",
+      "name": "Grape"
+    },
+    {
+      "id": "8",
+      "name": "Honeydew"
+    },
+    {
+      "id": "9",
+      "name": "Indian Fig"
+    },
+    {
+      "id": "10",
+      "name": "Jackfruit"
+    },
+    {
+      "id": "11",
+      "name": "Kiwi"
+    },
+    {
+      "id": "12",
+      "name": "Lemon"
+    },
+    {
+      "id": "13",
+      "name": "Mango"
+    },
+    {
+      "id": "14",
+      "name": "Nectarine"
+    },
+    {
+      "id": "15",
+      "name": "Orange"
+    },
+    {
+      "id": "16",
+      "name": "Papaya"
+    },
+    {
+      "id": "17",
+      "name": "Quince"
+    },
+    {
+      "id": "18",
+      "name": "Raspberry"
+    },
+    {
+      "id": "19",
+      "name": "Strawberry"
+    },
+    {
+      "id": "20",
+      "name": "Tangerine"
+    },
+    {
+      "id": "21",
+      "name": "Ugli Fruit"
+    },
+    {
+      "id": "22",
+      "name": "Vanilla Bean"
+    },
+    {
+      "id": "23",
+      "name": "Watermelon"
+    },
+    {
+      "id": "24",
+      "name": "Xigua"
+    },
+    {
+      "id": "25",
+      "name": "Yellow Passion Fruit"
+    },
+    {
+      "id": "26",
+      "name": "Zucchini"
+    },
+    {
+      "id": "27",
+      "name": "Pineapple"
+    },
+    {
+      "id": "28",
+      "name": "Blueberry"
+    },
+    {
+      "id": "29",
+      "name": "Coconut"
+    },
+    {
+      "id": "30",
+      "name": "Lychee"
+    }
+  ]
+}
